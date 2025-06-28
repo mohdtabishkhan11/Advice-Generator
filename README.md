@@ -7,10 +7,7 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [Advice Generator App (SASS + JS + BEM + Mobile-first) | Frontend Mentor](https://www.frontendmentor.io/solutions/advice-generator-app-sass-js-bem-mobilefirst-eiynIQIsXe)
-- Live Site URL: [https://advice-generator-app-melvinhdz.vercel.app/](https://advice-generator-app-melvinhdz.vercel.app/)
-
-<br>
+- Live Site URL: [[https://advice-generator-11.netlify.app/](https://advice-generator-11.netlify.app/)<br>
 
 ## Table of contents
 
